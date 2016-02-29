@@ -1,0 +1,9 @@
+{
+  "name": "dummy-app",
+  "version": "0.0.1",
+  "repository": "https://github.com/iyovcheva/dummy-repo.git",
+  "start": "node app.js",
+  "dependencies": {
+    "express": "latest"
+  }
+}
