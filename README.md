@@ -1,2 +1,2 @@
-# dummy-repo
-This repository is created only to test NodeJS deployment with Brooklyn
+# NodeJS sample app
+This repository contains a sample for blueprint deployment of NodeJS with Apache Brooklyn.
